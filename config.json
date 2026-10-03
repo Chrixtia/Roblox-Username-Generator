@@ -1,1 +1,14 @@
-
+{
+  "minLength": 4,
+  "maxLength": 5,
+  "batchSize": 50,
+  "checkDelayMs": 600,
+  "allowUnderscores": true,
+  "allowNumbers": true,
+  "validateRegistration": true,
+  "outputDir": "results",
+  "webhook": {
+    "enabled": false,
+    "url": ""
+  }
+}

@@ -1,0 +1,23 @@
+# Build and dependencies
+node_modules/
+dist/
+
+# Output directories & files
+results/
+temp_test_results/
+temp_test_usernames.txt
+UserNames.txt
+
+# Environment variables & secrets
+.env
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
